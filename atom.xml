@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Casperify]]></title>
+  <subtitle><![CDATA[Hexo Theme]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://andresgodinez.me/hexo-theme-casperify/"/>
+  <updated>2016-01-16T17:13:43.961Z</updated>
+  <id>http://andresgodinez.me/hexo-theme-casperify/</id>
+  
+  <author>
+    <name><![CDATA[user]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Test Video]]></title>
+    <link href="http://andresgodinez.me/hexo-theme-casperify/video-test/"/>
+    <id>http://andresgodinez.me/hexo-theme-casperify/video-test/</id>
+    <published>2016-01-16T17:13:43.961Z</published>
+    <updated>2016-01-16T17:13:43.961Z</updated>
+    <content type="html"><![CDATA[<p>This is a video test post.</p>
+<h3 id="Youtube"><a href="#Youtube" class="headerlink" title="Youtube"></a>Youtube</h3><div class="video-container"><iframe src="//www.youtube.com/embed/bDLeJw8euhY" frameborder="0" allowfullscreen></iframe></div>
+<h3 id="Vimeo"><a href="#Vimeo" class="headerlink" title="Vimeo"></a>Vimeo</h3><div class="video-container"><iframe src="//player.vimeo.com/video/44878206" frameborder="0" allowfullscreen></iframe></div>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This is a video test post.</p>
+<h3 id="Youtube"><a href="#Youtube" class="headerlink" title="Youtube"></a>Youtube</h3><div class="video-c]]>
+    </summary>
+    
+      <category term="test" scheme="http://andresgodinez.me/hexo-theme-casperify/tags/test/"/>
+    
+      <category term="video" scheme="http://andresgodinez.me/hexo-theme-casperify/tags/video/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Only Text]]></title>
+    <link href="http://andresgodinez.me/hexo-theme-casperify/text-test/"/>
+    <id>http://andresgodinez.me/hexo-theme-casperify/text-test/</id>
+    <published>2016-01-16T14:58:28.217Z</published>
+    <updated>2016-01-16T14:58:28.217Z</updated>
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.</p>
+<p>Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. C]]>
+    </summary>
+    
+      <category term="test" scheme="http://andresgodinez.me/hexo-theme-casperify/tags/test/"/>
+    
+      <category term="text" scheme="http://andresgodinez.me/hexo-theme-casperify/tags/text/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Gallery test]]></title>
+    <link href="http://andresgodinez.me/hexo-theme-casperify/gallery-test/"/>
+    <id>http://andresgodinez.me/hexo-theme-casperify/gallery-test/</id>
+    <published>2016-01-16T14:57:42.174Z</published>
+    <updated>2016-01-16T14:57:42.174Z</updated>
+    <content type="html"><![CDATA[<p>This is a image gallery test post.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This is a image gallery test post.</p>
+]]>
+    </summary>
+    
+      <category term="gallery" scheme="http://andresgodinez.me/hexo-theme-casperify/tags/gallery/"/>
+    
+      <category term="image" scheme="http://andresgodinez.me/hexo-theme-casperify/tags/image/"/>
+    
+      <category term="test" scheme="http://andresgodinez.me/hexo-theme-casperify/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Image test]]></title>
+    <link href="http://andresgodinez.me/hexo-theme-casperify/image-test/"/>
+    <id>http://andresgodinez.me/hexo-theme-casperify/image-test/</id>
+    <published>2016-01-16T14:57:07.857Z</published>
+    <updated>2016-01-16T14:57:07.857Z</updated>
+    <content type="html"><![CDATA[<p>This is a image test post.</p>
+<p><img src="http://41.media.tumblr.com/2d89b10f54283fc0f57dcb61750a4ef5/tumblr_ntjm32wPI91u7ns0go1_1280.jpg" alt="horses"></p>
+<p><img src="http://www.lifeofpix.com/wp-content/uploads/2015/11/Life-of-Pix-free-stock-photos-mountains-view-sky-snow-AidaSadzak.jpg" alt="alaska"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This is a image test post.</p>
+<p><img src="http://41.media.tumblr.com/2d89b10f54283fc0f57dcb61750a4ef5/tumblr_ntjm32wPI91u7ns0go1_1280.j]]>
+    </summary>
+    
+      <category term="image" scheme="http://andresgodinez.me/hexo-theme-casperify/tags/image/"/>
+    
+      <category term="test" scheme="http://andresgodinez.me/hexo-theme-casperify/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://andresgodinez.me/hexo-theme-casperify/hello-world/"/>
+    <id>http://andresgodinez.me/hexo-theme-casperify/hello-world/</id>
+    <published>2016-01-15T04:12:15.864Z</published>
+    <updated>2016-01-15T04:12:15.864Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server"><a href="#Run_server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files"><a href="#Generate_static_files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+      <category term="hello" scheme="http://andresgodinez.me/hexo-theme-casperify/tags/hello/"/>
+    
+      <category term="word" scheme="http://andresgodinez.me/hexo-theme-casperify/tags/word/"/>
+    
+  </entry>
+  
+</feed>
