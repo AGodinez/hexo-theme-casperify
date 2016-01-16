@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Casperify]]></title>
   <subtitle><![CDATA[Hexo Theme]]></subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/hexo-theme-casperify/atom.xml" rel="self"/>
   <link href="http://andresgodinez.me/hexo-theme-casperify/"/>
   <updated>2016-01-16T17:13:43.961Z</updated>
   <id>http://andresgodinez.me/hexo-theme-casperify/</id>
